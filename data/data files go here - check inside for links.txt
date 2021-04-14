@@ -1,0 +1,5 @@
+The original json file containing the reviews can be downloaded from https://drive.google.com/file/d/1dcflkqG3admMehRkGfokHbJP1XHufXev/view?usp=sharing
+
+The csv file version of the json file can be downloaded from https://drive.google.com/file/d/1aV5SgP7mZw2OgvYyE2dFVw3Sc6Q8LMBp/view?usp=sharing
+
+The smaller prepared csv file can be downloaded from https://drive.google.com/file/d/1QgyluHEIrB0yAOwH51StS7T8DNtNRAwh/view?usp=sharing
